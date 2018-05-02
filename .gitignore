@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/src/.vs
+/src/packages
+/src/FortniteStat2Txt.Console/bin
+/src/FortniteStat2Txt.Console/obj
